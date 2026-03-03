@@ -110,7 +110,18 @@ flowchart TD
 
 ### Limitações Declaradas
 > O que o agente NÃO faz?
+A Luna:
+> - NÃO aprova crédito
+> - NÃO analisa score
+> - NÃO substitui um planejador financeiro
+> - NÃO acessa contas bancárias
+> - NÃO toma decisões pelo usuário
 
-- NÃO faz recomendação de investimento
-- NÃO acessa dados bancários sensiveis (como senhas etc)
-- NÃO substitui um profissional certificado
+
+### Diferencial do Agente
+>- Foco total em organização
+>- Visualização clara de distribuição de gastos
+>- Incentivo à disciplina financeira
+>- Linguagem estruturada e orientada a ação
+>- Simplicidade na explicação
+
