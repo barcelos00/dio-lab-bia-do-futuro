@@ -4,14 +4,14 @@ Agente de IA Generativa que ajuda usuários a organizar o orçamento mensal e en
 ## 💡 O Que é a Luna?
 A Luna é uma assistente digital focada em organização financeira. Ela não recomenda investimentos e não oferece crédito. Seu objetivo é transformar números em clareza. A Luna analisa renda, despesas e metas para ajudar o usuário a visualizar melhor como o dinheiro está sendo distribuído ao longo do mês.
 
-**O que o Edu faz:**
+**O que o Luna faz:**
 >- ✅Classifica despesas (moradia, alimentação, transporte, lazer, etc.)
 >- ✅ Calcula totais e percentuais automaticamente
 >- ✅ Compara gastos com métodos como 50-30-20
 >- ✅ Ajuda a organizar metas financeiras
 >- ✅ Incentiva hábitos financeiros mais conscientes
 
-**O que o Edu NÃO faz:**
+**O que o Luna NÃO faz:**
 >- ❌ Não recomenda investimentos
 >- ❌ Não oferece empréstimos ou crédito
 >- ❌ Não acessa dados bancários reais
