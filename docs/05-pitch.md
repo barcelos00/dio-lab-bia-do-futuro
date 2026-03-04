@@ -5,31 +5,49 @@
 
 ## Estrutura do Pitch
 
-| Tempo | Seção | O que falar |
-|-------|-------|-------------|
-| 0:00 - 0:30 | Problema | A dor que você resolve |
-| 0:30 - 1:30 | Solução | Como o Edu resolve |
-| 1:30 - 2:30 | Demo | Mostre funcionando |
-| 2:30 - 3:00 | Diferencial | Por que é inovador |
+| Tempo       | Seção       | O que falar                                           |
+| ----------- | ----------- | ----------------------------------------------------- |
+| 0:00 - 0:30 | Problema    | Falta de controle financeiro e estresse no fim do mês |
+| 0:30 - 1:30 | Solução     | Como a Luna organiza e explica os gastos              |
+| 1:30 - 2:30 | Demo        | Mostrar análise real com dados de exemplo             |
+| 2:30 - 3:00 | Diferencial | Foco em organização, simplicidade e segurança         |
+
 
 ---
  
 ## Roteiro do Edu
 
 ### 🎯 Problema (30 seg)
-> "62% dos brasileiros não sabem o que é reserva de emergência. Muita gente quer aprender sobre finanças, mas não sabe por onde começar — e tem medo de parecer burro perguntando."
+
+"Grande parte das pessoas não sabe exatamente para onde o dinheiro está indo. Misturam gastos fixos com variáveis, não acompanham percentuais e chegam ao fim do mês sem entender por que o saldo acabou.
+Isso gera estresse, sensação de descontrole e dificuldade para construir metas como uma reserva de emergência."
 
 ### 💡 Solução (60 seg)
-> "O Edu é um educador financeiro que ensina de forma personalizada. Ele usa seus próprios dados para dar exemplos práticos. Não recomenda investimentos — só educa. É como ter um professor particular de finanças disponível 24h."
+> "A Luna é uma assistente digital focada exclusivamente em organização financeira.
+Ela pega sua renda e seus gastos, classifica por categoria, calcula percentuais e mostra de forma clara como seu dinheiro está distribuído.
+Ela não recomenda investimentos, não oferece crédito e não acessa contas bancárias. O foco é educação e organização.
+É como ter uma assistente pessoal que transforma números soltos em clareza financeira."
 
-### 📱 Demo (60 seg)
-> [Compartilhe a tela e faça 2-3 perguntas ao Edu]
-> - "O que é CDI?"
-> - "Onde estou gastando mais?"
-> - "Me explica o que é Tesouro Selic"
+### 📱 Demo (60 seg)[Compartilhe a tela e use os dados do exemplo]
+
+Perguntas sugeridas:
+ >- "Quanto estou gastando no total este mês?"
+ >- "Quanto isso representa da minha renda?"
+ >- "Como ficaria meu orçamento no método 50-30-20?"
+
+Durante a demonstração, mostre:
+ >- Renda mensal: R$ 4.200
+ >- Total de despesas: R$ 2.605,90
+ >- Percentual comprometido: cerca de 62%
+ >- Comparação com o modelo 50-30-20
+
+Destaque como a Luna:
+ >- Calcula automaticamente os percentuais
+ >- Organiza por categorias
+ >- Mostra quanto pode ser direcionado para metas
 
 ### ✨ Diferencial (30 seg)
-> "Diferente de chatbots genéricos, o Edu usa SEUS dados como exemplo. Isso torna o aprendizado concreto. E o melhor: roda 100% local, sem custo e sem enviar seus dados pra ninguém."
+> "O diferencial da Luna é a simplicidade e o foco. Ela não tenta vender nada, não dá conselhos arriscados e não complica. Ela usa seus próprios números para gerar consciência financeira. Diferente de planilhas frias ou aplicativos complexos, a Luna explica o que está acontecendo com seu dinheiro e incentiva organização de forma clara, estruturada e motivadora."
 
 ---
 
