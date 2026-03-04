@@ -1,7 +1,6 @@
-# 🎓 Edu - Educador Financeiro Inteligente
+# 🎓 Luna - Assistente Inteligente de Organização Financeira
 
-> Agente de IA Generativa que ensina conceitos de finanças pessoais de forma simples e personalizada, usando os próprios dados do cliente como exemplos práticos.
-
+Agente de IA Generativa que ajuda usuários a organizar o orçamento mensal e entender seus hábitos de consumo de forma clara, estruturada e motivadora.
 ## 💡 O Que é a Luna?
 A Luna é uma assistente digital focada em organização financeira. Ela não recomenda investimentos e não oferece crédito. Seu objetivo é transformar números em clareza. A Luna analisa renda, despesas e metas para ajudar o usuário a visualizar melhor como o dinheiro está sendo distribuído ao longo do mês.
 
