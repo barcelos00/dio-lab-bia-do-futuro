@@ -1,42 +1,32 @@
 [
   {
-    "nome": "Tesouro Selic",
-    "categoria": "renda_fixa",
-    "risco": "baixo",
-    "rentabilidade": "100% da Selic",
-    "aporte_minimo": 30.00,
-    "indicado_para": "Reserva de emergência e iniciantes"
+    "nome": "Método 50-30-20",
+    "categoria": "metodo_orcamentario",
+    "descricao": "Divide a renda em 50% necessidades, 30% qualidade de vida e 20% metas/poupança",
+    "indicado_para": "Quem quer uma estrutura simples para organizar o orçamento mensal"
   },
   {
-    "nome": "CDB Liquidez Diária",
-    "categoria": "renda_fixa",
-    "risco": "baixo",
-    "rentabilidade": "102% do CDI",
-    "aporte_minimo": 100.00,
-    "indicado_para": "Quem busca segurança com rendimento diário"
+    "nome": "Orçamento Base Zero",
+    "categoria": "metodo_orcamentario",
+    "descricao": "Cada real da renda recebe uma função específica até o saldo ficar zerado",
+    "indicado_para": "Quem deseja controle total sobre para onde o dinheiro está indo"
   },
   {
-    "nome": "LCI/LCA",
-    "categoria": "renda_fixa",
-    "risco": "baixo",
-    "rentabilidade": "95% do CDI",
-    "aporte_minimo": 1000.00,
-    "indicado_para": "Quem pode esperar 90 dias (isento de IR)"
+    "nome": "Regra dos 30% para Moradia",
+    "categoria": "referencia_orcamentaria",
+    "descricao": "Sugere que os gastos com moradia não ultrapassem 30% da renda mensal",
+    "indicado_para": "Quem quer avaliar se o custo de moradia está equilibrado"
   },
   {
-    "nome": "Fundo Imobiliário (FII)",
-    "categoria": "fundo",
-    "risco": "medio",
-    "rentabilidade": "Dividend Yield (DY) costuma ficar entre 6% a 12% ao ano",
-    "aporte_minimo": 100.00,
-    "indicado_para": "Perfil moderado que busca diversificação e renda recorrente mensal"
+    "nome": "Reserva de Emergência",
+    "categoria": "planejamento_financeiro",
+    "descricao": "Valor guardado equivalente a 3 a 6 meses de despesas essenciais",
+    "indicado_para": "Quem busca segurança financeira contra imprevistos"
   },
   {
-    "nome": "Fundo de Ações",
-    "categoria": "fundo",
-    "risco": "alto",
-    "rentabilidade": "Variável",
-    "aporte_minimo": 100.00,
-    "indicado_para": "Perfil arrojado com foco no longo prazo"
+    "nome": "Controle de Gastos por Categoria",
+    "categoria": "organizacao_financeira",
+    "descricao": "Classificação das despesas em grupos como moradia, alimentação, transporte e lazer",
+    "indicado_para": "Quem quer identificar padrões de consumo e possíveis excessos"
   }
 ]
